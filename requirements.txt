@@ -1,0 +1,25 @@
+certifi==2021.5.30
+click==8.0.3
+dataclasses==0.8
+Flask==2.0.2
+gunicorn==20.1.0
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+joblib==1.1.0
+MarkupSafe==2.0.1
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy==1.19.5
+pandas==1.1.5
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+scikit-learn @ file:///opt/concourse/worker/volumes/live/7b55aa24-f99a-451d-4bd5-ccdd895045b7/volume/scikit-learn_1621370398109/work
+scipy==1.5.4
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+threadpoolctl==3.0.0
+typing_extensions==4.0.1
+Werkzeug==2.0.2
+zipp==3.6.0
